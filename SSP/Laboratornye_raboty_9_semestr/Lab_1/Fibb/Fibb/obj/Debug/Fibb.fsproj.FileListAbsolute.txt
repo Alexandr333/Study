@@ -1,0 +1,8 @@
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\Fibb.exe.config
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\Fibb.XML
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\Fibb.exe
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\Fibb.pdb
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\FSharp.Core.dll
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\bin\Debug\FSharp.Core.xml
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\obj\Debug\Fibb.exe
+D:\Study\University\SSP\Laboratornye_raboty_9_semestr\Lab_1\Fibb\Fibb\obj\Debug\Fibb.pdb
